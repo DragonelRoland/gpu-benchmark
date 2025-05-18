@@ -20,7 +20,7 @@ gpu-benchmark
 
 ### Optional Arguments
 
-If you're running on a cloud provider, specify it with the `--provider` flag:
+If you're running on a cloud provider, specify it with the `--provider` flag, e.g. Runpod:
 ```bash
 gpu-benchmark --provider runpod
 ```
